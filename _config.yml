@@ -51,7 +51,7 @@ prettify:
 
 #默认代码高亮插件
 highlight:
-  enable: false
+  enable: ture
   _enable: "false" # （BUG?）scss 中只能获取字符串
   line_number: true
   auto_detect: true
