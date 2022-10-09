@@ -10,7 +10,7 @@
       </h1>
 
       <time class="post-time">
-          {{ full_date(post.date, 'YYYY-MM-DD') }}
+          {{ full_date(post.date, 'YYYY-MM-DD HH:mm:ss') }}
       </time>
     </header>
 
