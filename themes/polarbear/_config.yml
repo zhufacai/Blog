@@ -17,12 +17,12 @@ rss: default
 # Menu Settings
 # ===========================================
 menu:
-  归档: /archives
-  关于: /about
-  订阅: /atom.xml
+  Archives : /archives
+  About: /about
+  RSS: /atom.xml
 
 archive_generator:
-  per_page: 0
+  per_page: 50
   yearly: false
   monthly: false
   daily: false
@@ -48,11 +48,7 @@ widget_custom:
 friend_list:
   绿帽子大学: https://lmzdx.com
   刘延栋的赛博空间: https://liuyandong.com
-  todebug: https://todebug.com
-  星空无限: https://liyangzone.com
-  ydlan: https://blog.ydlan.cn
-  JerryC: https://immyw.com
-  25H's Blog: https://arae.cc
+
 
 # ===========================================
 # Theme Settings
