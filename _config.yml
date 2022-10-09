@@ -15,7 +15,7 @@ archive_generator:
 #   content: Add your html code in here. Example: <p>testing...</p>
 widget:
   Tags: false
-  Categories: false
+  Categories: true
   Custom: false
 
 widget_custom:
