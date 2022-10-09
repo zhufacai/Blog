@@ -2,6 +2,7 @@
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
 theme: polarbear
+title: Joker
 archive_generator:
     per_page: 0
     yearly: false
@@ -13,7 +14,7 @@ archive_generator:
 #   title: your widget title
 #   content: Add your html code in here. Example: <p>testing...</p>
 widget:
-  Tags: true
+  Tags: false
   Categories: false
   Custom: false
 
