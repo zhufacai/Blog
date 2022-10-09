@@ -29,6 +29,7 @@
   <link rel="stylesheet" type="text/css" href="{{ url_for('lib/fancybox/jquery.fancybox.css') }}" />
 {% endif %}
 
+
 {# Theme Configuration #}
 {% include "../_script/config.swig" %}
 
@@ -36,3 +37,18 @@
 {% if not env.debug %}
   {% include "../_script/analytics.swig" %}
 {% endif %}
+
+{% if config.prettify.enable %}
+  <link href="/plugins/prettify/{{ config.prettify.theme }}.css" rel="stylesheet">
+{% endif %}
+
+<!--百度统计-->
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?b733e1eaeacbf8f87d3be047f28c3973";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
