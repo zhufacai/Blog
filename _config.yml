@@ -8,7 +8,7 @@ subtitle: Joker的个人博客
 description: Joker 的个人博客
 keywords: Joker个人博客 hexo 博客
 author: Joker
-language: en
+language: zh_cn
 timezone:
 sitemap:
   path: sitemap.xml
@@ -19,13 +19,6 @@ baidusitemap:
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://4ark.me
 root: /
-# permalink: :year/:month/:day/:title/
-permalink: :urlname
-#permalink: post/:abbrlink.html
-abbrlink:
-  alg: crc32 # 算法：crc16(default) and crc32
-  rep: hex # 进制：dec(default) and hex
-permalink_defaults:
 
 # Directory
 source_dir: source
