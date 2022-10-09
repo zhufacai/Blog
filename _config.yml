@@ -71,7 +71,8 @@ index_generator:
   path: ""
   per_page: 10
   order_by: -date
-excerpt_length: 200 (number of characters)
+
+excerpt_length: 200
 
 # Category & Tag
 default_category: uncategorized
