@@ -1,9 +1,8 @@
-# Hexo Configuration
-## Docs: https://hexo.io/docs/configuration.html
-## Source: https://github.com/hexojs/hexo/
-
-# Site
-title: Hexo
+# Extensions
+## Plugins: http://hexo.io/plugins/
+## Themes: http://hexo.io/themes/
+theme: polarbear
+title: Joker
 archive_generator:
     per_page: 0
     yearly: false
@@ -15,8 +14,8 @@ archive_generator:
 #   title: your widget title
 #   content: Add your html code in here. Example: <p>testing...</p>
 widget:
-  Tags: true
-  Categories: false
+  Tags: false
+  Categories: true
   Custom: false
 
 widget_custom:
