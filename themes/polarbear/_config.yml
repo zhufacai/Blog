@@ -36,10 +36,10 @@ archive_generator:
 #   title: your widget title
 #   content: Add your html code in here. Example: <p>testing...</p>
 widget:
-  Tags: true
+  Tags: false
   Categories: false
   Custom: false
-  Friends: true
+  Friends: false
 
 widget_custom:
   title: Slogan
