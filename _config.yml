@@ -46,7 +46,7 @@ future: true
 # enable 启用和不启用
 # theme 使用prettify高亮主题名称
 prettify:
-  enable: true
+  enable: false
   theme: "prettify"
 
 #默认代码高亮插件
