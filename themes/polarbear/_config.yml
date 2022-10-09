@@ -30,7 +30,7 @@ menu:
 #   content: Add your html code in here. Example: <p>testing...</p>
 widget:
   Tags: false
-  Categories: false
+  Categories: ture
   Custom: false
 
 widget_custom:
