@@ -71,7 +71,8 @@ index_generator:
   path: ""
   per_page: 10
   order_by: -date
-  
+
+# hexo-auto-excerpt 
 excerpt_length：200
 
 # Category & Tag
