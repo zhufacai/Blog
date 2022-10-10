@@ -5,7 +5,7 @@
         {{ theme.since }} -
     {% endif %}
     {{ current }}
-    <span class="footer-author"> <a href="https://www.joker.cc/">{{ config.author }}</a>.</span>
+    <span class="footer-author"> <a href="/">{{ config.author }}</a>.</span>
     <span class="power-by">
         {{ __('footer.powered', '<a class="hexo-link">Hexo</a> & <a class="theme-link">Vercel.</a>') }}
     </span>
