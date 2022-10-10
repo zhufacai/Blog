@@ -62,7 +62,7 @@ theme:
 # ===========================================
 
 # Baidu Analytics
-baidu_analytics:'5af74b8d5d1b5ae81fce341d7d66a638'
+baidu_analytics:
 
 # Google Analytics
 google_analytics:
