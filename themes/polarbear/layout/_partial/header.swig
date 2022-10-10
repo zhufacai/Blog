@@ -1,10 +1,9 @@
 <div class="site-header-inner">
     <h1 class="site-title"><style>
-@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');</style>
-
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+</style>
         <a href="{{ url_for('.') }}" class="logo">{{ config.title }}</a>
     </h1>
-
     <nav id="nav-top">
         {% if theme.menu %}
             <ul id="menu-top" class="nav-top-items">
