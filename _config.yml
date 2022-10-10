@@ -9,7 +9,7 @@ description: Joker的个人博客
 keywords: Joker,Joker博客,joker blog
 author: Joker
 language: zh_cn
-timezone:
+timezone: UTC+8
 sitemap:
   path: sitemap.xml
 baidusitemap:
