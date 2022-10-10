@@ -2,23 +2,17 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/14821269/187963937-74d10d41-7cc5-4ae4-8554-54a6ca700289.jpg"></p>
 
 ## 😎About Me
-<samp>
-
 - 🤡 I’m Joker.
 - 🌏 China🐰.
 - 🔗 www.joker.cc
 - 📧 www@joker.cc
 - ❤️ I love money💵💴💶💷,girl's ass, tits and pussy😍.
 
-</samp>
-
 ## 🛒Domain Shop
-
-<samp>
 
 ### ⭐My domains for sale on [dan.com](https://dan.com/domain-seller/joker).Click the link to buy, or <a href="mailto:www@joker.cc">email me</a>.
 
-#### 🟢 $\color{green}{Sell:}$ Premium domains for sale. 
+#### 🟢Premium domains for sale. 
 - [ps.ee](https://dan.com/buy-domain/ps.ee)
 - [sb.ee](https://dan.com/buy-domain/sb.ee)
 - [pt.ee](https://dan.com/buy-domain/pt.ee)
@@ -27,7 +21,7 @@
 - [dcep.day](https://dan.com/buy-domain/dcep.day)
 - [joker.cc](https://dan.com/buy-domain/joker.cc)
 
-#### 🔴 $\color{red}{Sold:}$ These domains have been sold,only show.
+#### 🔴 These domains have been sold,only show.
 - zr.ee
 - lg.ee
 - fn.ee
@@ -36,7 +30,6 @@
 - my.ci
 - ic.ci
 - pornchannels.com
-</samp>
 
 ## 🤖Github Stats
 
