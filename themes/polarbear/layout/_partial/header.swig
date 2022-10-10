@@ -1,7 +1,7 @@
 <div class="site-header-inner">
-    <h1 class="site-title">
+   <span id="zt1"><h1 class="site-title">
         <a href="{{ url_for('.') }}" class="logo">{{ config.title }}</a>
-    </h1>
+    </h1></span>
 
     <nav id="nav-top">
         {% if theme.menu %}
