@@ -6,7 +6,6 @@ slug:  1911
 categories: 
 - Codes
 tags:  
-permalink:  /archives/:slug.html
 author:  Joker
 date:  2022-04-20 16:37:00
 timezone: UTC+8
