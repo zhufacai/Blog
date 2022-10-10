@@ -5,7 +5,7 @@
 .header {
     @include clearfix;
     padding: $header-padding;
-
+    position: fixed;
 }
 
 @include max-screen() {
