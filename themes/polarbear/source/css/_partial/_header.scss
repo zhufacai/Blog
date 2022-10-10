@@ -5,6 +5,7 @@
 .header {
     @include clearfix;
     padding: $header-padding;
+	postion:fixed;
 }
 
 @include max-screen() {
@@ -19,8 +20,8 @@
     top: 0;
     right: 0;
     left: 0;
-    box-shadow: 0 0 6px rgba(0, 0, 0, 0.15);
-	postion:fixed;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+	
 }
 
 .site-header-inner {
