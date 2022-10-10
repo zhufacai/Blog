@@ -77,11 +77,6 @@ archive_generator:
   per_page: 10
   order_by: -date
 
-weekly_generator:
-  tag: 'weekly'
-  path: '/weekly'
-  per_page: 10
-  order_by: -date
 
 # 首页摘要显示字数
 excerpt_length: 235
