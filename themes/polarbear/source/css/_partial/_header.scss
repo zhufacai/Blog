@@ -5,7 +5,10 @@
 .header {
     @include clearfix;
     padding: $header-padding;
-	postion:fixed;
+	postion: fixed;
+	left:0px;
+	top:0px;
+	width:100%;
 }
 
 @include max-screen() {
