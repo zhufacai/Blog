@@ -1,7 +1,7 @@
 <div class="site-header-inner">
     <h1 class="site-title">
 	<style>
-@import url('https://fonts.googleapis.com/css2?family=Felipa&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 </style>
         <a href="{{ url_for('.') }}" class="logo">{{ config.title }}</a>
     </h1>
