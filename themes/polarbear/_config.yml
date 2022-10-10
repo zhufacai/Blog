@@ -62,7 +62,16 @@ theme:
 # ===========================================
 
 # Baidu Analytics
-baidu_analytics:
+baidu_analytics:<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?5af74b8d5d1b5ae81fce341d7d66a638";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
 # Google Analytics
 google_analytics:
 
