@@ -1,3 +1,4 @@
+<div class="header">
 <div class="site-header-inner">
     <h1 class="site-title">
 	<style>
@@ -27,4 +28,5 @@
             </ul>
         {% endif %}
   </nav>
+</div>
 </div>
