@@ -21,10 +21,7 @@
     right: 0;
     left: 0;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
-		postion: fixed;
-	left:0px;
-	top:0px;
-	width:100%;
+
 }
 
 .site-header-inner {
@@ -35,6 +32,10 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+			postion: fixed;
+	left:0px;
+	top:0px;
+	width:100%;
 }
 
 .site-title {
