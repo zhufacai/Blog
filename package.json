@@ -30,13 +30,13 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhufacai/MyBlog.git"
+    "url": "git+https://github.com/zhufacai/Blog.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zhufacai/MyBlog/issues"
+    "url": "https://github.com/zhufacai/Blog/issues"
   },
-  "homepage": "https://github.com/zhufacai/MyBlog#readme"
+  "homepage": "https://github.com/zhufacai/Blog#readme"
 }
